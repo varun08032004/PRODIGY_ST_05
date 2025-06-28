@@ -1,4 +1,4 @@
-# 🛒 PRODIGY_ST_05 – Automated E-Commerce Checkout Flow
+# PRODIGY_ST_05 – Automated E-Commerce Checkout Flow
 
 ## 📌 Task Description
 
